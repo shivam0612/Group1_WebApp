@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSAMGroup1W23.props" />
+</Project>

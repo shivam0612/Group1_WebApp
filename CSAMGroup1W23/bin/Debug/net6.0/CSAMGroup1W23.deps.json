@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSAMGroup1W23/1.0.0": {
+        "runtime": {
+          "CSAMGroup1W23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSAMGroup1W23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
